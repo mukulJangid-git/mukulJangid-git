@@ -8,8 +8,7 @@
 
 ### 💻 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI, Machine Learning & Data Science
@@ -43,13 +42,11 @@
 ## 📊 GitHub Metrics & Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukulJangid-git&show_icons=true&theme=dark&hide_border=true" alt="Mukul's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulJangid-git&layout=compact&theme=dark&hide_border=true&langs_count=4" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mukulJangid-git&show_icons=true&theme=dark&hide_border=true" alt="Mukul's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mukulJangid-git&layout=compact&theme=dark&hide_border=true&langs_count=4" alt="Top Languages" height="150" />
 </p>
-
----
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-jangid-589598257/)[cite: 1]
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukul.jangid2234@gmail.com)[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-jangid-589598257/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukul.jangid2234@gmail.com)
