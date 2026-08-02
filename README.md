@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mukul Jangid
 **Machine Learning Engineer & Python Developer**  
-*Final-year B.Tech in CSE (AI/ML) at JECRC University, Jaipur*
+*Recent B.Tech in CSE (AI/ML) graduate from JECRC University, Jaipur*
 
 ---
 
